@@ -1,4 +1,4 @@
-# Micronaut + GraalVM Native + AWS Lambda Custom Runtime 
+# Micronaut + GraalVM Native
 
 This example demonstrates how to use Micronaut AWS API Gateway Proxy support and GraalVM to construct a custom runtime that runs native images or Lambda.
 
